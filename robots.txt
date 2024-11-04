@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebaziizi.github.io/iCY/sitemap_index.txt
+Sitemap: https://ebaziizi.github.io/qGo/sitemap_index.txt
+Sitemap: https://ebaziizi.github.io/vXi/sitemap_index.txt
+Sitemap: https://ebaziizi.github.io/xkJ/sitemap_index.txt
